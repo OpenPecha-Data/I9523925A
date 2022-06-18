@@ -1,0 +1,36 @@
+id: I9523925A
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-19T01:00:16.059653'
+last_modified: '2022-06-19T01:00:16.059666'
+parser: null
+source_metadata:
+  title: Brief History of Gongkar Choede Monastery
+  author: dge dun rab gsal/
+  description: 'Digital version 2.0 {Wylie}; WYLIE COPY of master xml (completed:
+    2015-04-01); converted from external file, revision in process, thematic TEI markup'
+  file_info:
+  - 'Language: Wylie'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:Sakya Research Centre (src)
+  - Text input:blo gsal don grub/ (ld)
+  - Editorial process:Mathias Fermer (mf), blo gsal don grub/ (ld)
+  - TEI Encoding:Sakya Research Centre
+  - TEI Markup:Mathias Fermer (mf)
+  - Revisions/Corrections:blo gsal don grub/ (ld)
+  text_witnesses: https://sakyaresearch.org/sources/26
+  bases:
+    5a39:
+      title: Brief History of Gongkar Choede Monastery
+      order: 1
+      base_file: 5a39.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
